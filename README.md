@@ -1,3 +1,5 @@
+> **⚠️ Archived 2025-11-24. No longer maintained.**
+
 # Jar Synth Eagle files
 
 Inspired by Micheal Rucci's excellent Jar Synth
